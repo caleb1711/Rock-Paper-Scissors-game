@@ -10,8 +10,22 @@ body {
 #opponent-choice {
     width: 240px;
     height: 240px;
-    background-color: cyan;
     margin-top: 10px;
+    
+}
+
+#opponent-score{
+    color: rgb(218, 17, 17);
+}
+
+
+#your-score{
+    color: rgb(218, 17, 17);
+}
+
+
+#opponent-score{
+    color: rgb(218, 17, 17);
 }
 
 /* your choice */
@@ -19,7 +33,6 @@ body {
 #your-choice {
     width: 240px;
     height: 240px;
-    background-color: yellow;
     margin-top: 10px;
 }
 
