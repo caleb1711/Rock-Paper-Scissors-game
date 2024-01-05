@@ -20,3 +20,36 @@ The Javascript code chooses a random option for the Computer Player, displays th
 Computers choice, and then determines the winnder by increasing their points
 If Computer player makes the same choice to the players, it results in a draw, with both Players receiving no points
 
+## Testing 
+I tested playing this Game in different browsers: Safari, Chrome, Firefox
+I confirmed that the Game's results are always correct
+I confirmed that the colors and fonts choosen are easy to read and accessible by running it through lighthouse in devtools
+
+<img width="960" alt="access" src="https://github.com/caleb1711/Rock-Paper-Scissors-game/assets/130179631/76563a83-94e7-4547-9da9-197bcd541d49">
+
+## Validator Testing
+##### HTML
+No errors were returned when passing through the official W3C validator
+
+##### CSS
+No errors were returned when passing through the official (jigsaw) validator
+
+# Deployment
+The site was deployed to Github pages. The step to deploy are as follow:
+In the Github repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the Master has been selected, the page provided the link to the completed website
+
+# Credits
+##### Media
+The Images used were taken from Google
+
+
+
+
+
+
+
+
+
+
