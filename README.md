@@ -5,3 +5,10 @@ Users have the chance to play against the Computer, which picks random options b
 
 
 <img width="960" alt="rsp" src="https://github.com/caleb1711/Rock-Paper-Scissors-game/assets/130179631/546801a3-3fc0-4250-a345-deed01500248">
+
+
+### The Game Options
+The Game options include a choice of options to choose from to play: Rock, Paper, Scissors.
+These options are interactive buttons that the user can click to make their choice.
+
+<img width="960" alt="options" src="https://github.com/caleb1711/Rock-Paper-Scissors-game/assets/130179631/fd44838c-fa8a-438b-826a-4f46dd6ff9b5">
