@@ -12,3 +12,11 @@ The Game options include a choice of options to choose from to play: Rock, Paper
 These options are interactive buttons that the user can click to make their choice.
 
 <img width="960" alt="options" src="https://github.com/caleb1711/Rock-Paper-Scissors-game/assets/130179631/fd44838c-fa8a-438b-826a-4f46dd6ff9b5">
+
+
+### The Game Results
+When User clicks Options, the image relating to their choice is shown on their side of the game board.
+The Javascript code chooses a random option for the Computer Player, displays the image relating to the 
+Computers choice, and then determines the winnder by increasing their points
+If Computer player makes the same choice to the players, it results in a draw, with both Players receiving no points
+
